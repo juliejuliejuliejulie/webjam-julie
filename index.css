@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background:#fdffff
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Bitter', serif;
+    color: #ffe782;
+    font-size: 60px;
+    margin:auto;
+    line-height: 4;
+    
+}
+
+.insulte{
+        color: #b40f0f;
+}
+
+
+input{    
+    font-family: 'Bitter', serif;
+    font-size: 24px;
+    
+
+}
+#mechant input{
+    display: flex;
+    width: 340px;
+    height: 55px;
+    background: #b40f0f;
+}
+
+#gentils input{
+    display: flex;
+    width: 340px;
+    height: 55px;
+    background: #ffe782;
+;
+}
