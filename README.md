@@ -1,1 +1,4 @@
 webjam-julie
+Un "terminal" est une interface permettant de parler directement à l'ordinateur. 
+J'ai décidé de m'appuyer sur cette définition pour travailler durant à peu près 14 heures d'affilées sur un projet de création numérique. L'interface est un site internet ou l'on peut dialoguer avec une base de donnée. Il faut l'insulter ou la complimenter pour commencer l'échange. Elle répondra ensuite en nous insultant ou en nous complimentant suivant le choix effectué. Je me suis inspirée de l'application Siri en imaginant des réponses plus réconfortantes ou plus cassantes.
+Durant ces heures de travail j'ai découvert le langage Php et j'ai approfondi mes connaissances sur CSS. 
