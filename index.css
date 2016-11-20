@@ -9,7 +9,7 @@ h1{
     display: flex;
     justify-content: center;
     font-family: 'Bitter', serif;
-    color: #ffe782;
+    color: #ff8282;
     font-size: 60px;
     margin:auto;
     line-height: 4;
@@ -20,6 +20,10 @@ h1{
         color: #b40f0f;
 }
 
+.gentillesse{
+    color:#ff8282
+}
+
 
 input{    
     font-family: 'Bitter', serif;
@@ -27,17 +31,17 @@ input{
     
 
 }
-#mechant input{
+#insulte input{
     display: flex;
     width: 340px;
     height: 55px;
     background: #b40f0f;
 }
 
-#gentils input{
+#gentillesse input{
     display: flex;
     width: 340px;
     height: 55px;
-    background: #ffe782;
+    background: #ff8282;
 ;
 }
